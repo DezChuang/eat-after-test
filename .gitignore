@@ -3,3 +3,6 @@ node_modules/
 
 # MAC file
 .DS_Store
+
+# log file
+npm-debug.log
